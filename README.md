@@ -60,6 +60,6 @@ Overall, this project implements a full user authentication and profile manageme
 
 Google Drive Link:
 To provide you with a more comprehensive understanding of the project, I have created a Google Drive folder containing a video that walks you through the implementation process. You can access the video by clicking on the link below:
-[Google Drive Video](https://github.com/AmanSingh5/GingerApp)
+[Google Drive Video](https://drive.google.com/file/d/1IeIBnzBvpCUuQHcsgnWjT4f4UOggZ4uB/view)
 
 Please feel free to watch the video at your convenience to gain insights into the project's functionalities and how the different components work together.
