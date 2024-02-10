@@ -57,3 +57,9 @@ Database:
 MySQL is used for storing user data.
 Tables are created to store user registration information and profile details.
 Overall, this project implements a full user authentication and profile management system using React for the frontend, Node.js for the backend APIs, and MySQL for data storage.
+
+Google Drive Link:
+To provide you with a more comprehensive understanding of the project, I have created a Google Drive folder containing a video that walks you through the implementation process. You can access the video by clicking on the link below:
+[Google Drive Video](https://github.com/AmanSingh5/GingerApp)
+
+Please feel free to watch the video at your convenience to gain insights into the project's functionalities and how the different components work together.
